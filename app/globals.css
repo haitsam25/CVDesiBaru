@@ -1,0 +1,19 @@
+/* Mengatur latar belakang putih dan teks berwarna hitam */
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+/* Mengubah warna teks agar tetap terbaca di latar belakang putih */
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #555;
+}
+
+p {
+  color: #666;
+}

@@ -1,0 +1,52 @@
+/* Tambahkan ini ke file CSS Anda, atau gunakan inline style jika diperlukan */
+
+/* Mengatur tata letak umum */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* Judul */
+h1 {
+    font-size: 2rem;
+    color: #f0f0f0;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+    color: #ffffff;
+    margin-bottom: 1rem;
+}
+
+/* Gambar profil */
+.fotoku {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0.5rem auto;
+    border: 4px solid #ccc;
+}
+
+/* Teks paragraf */
+p {
+    font-size: 1.125rem;
+    color: #ffffff;
+    line-height: 1.5;
+    margin-top: 1rem;
+}
+
+/* Membuat agar teks berada di tengah */
+.text-center {
+    text-align: center;
+}
+
+/* Background warna */
+body {
+    background-color: #000000;
+    color: white;
+    font-family: Arial, sans-serif;
+}
